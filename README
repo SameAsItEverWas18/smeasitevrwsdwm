@@ -1,7 +1,9 @@
 I recommend rmeoving dwm from your package manager if you've already installed it there.
+Make sure you have st and dmenu installed beforehand of course
 
 Install:
-cd dwm*
+git clone https://github.com/SameAsItEverWas18/smeasitevrwsdwm.git
+cd smeasitevrwsdwm
 sudo make install
 
 Credit to suckless
